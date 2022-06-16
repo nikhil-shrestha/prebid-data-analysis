@@ -14,3 +14,5 @@ ipython_config.py
 *.bak
 
 large_files/
+
+.DS_Store
